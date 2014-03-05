@@ -1,4 +1,4 @@
 name: billcamel
 markdown: redcarpet
 pygments: true
-source: /_site
+source: _site
